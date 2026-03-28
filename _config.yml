@@ -35,48 +35,13 @@ nav:
     section: about
   - title: 简历
     section: cv
-  - title: 项目
-    section: projects
 
-# Collections
-collections:
-  publications:
-    permalink: /publications/:year/:title/
-    output: true
-  projects:
-    permalink: /projects/:title/
-    output: true
-
-# Theme settings
-# https://github.com/alshedivat/al-folio/blob/master/_config.yml
+# Social settings
+github_username: zhuhai-ustc
 
 # Social icons (shown in footer)
 social:
   - icon: github
-    icon_pack: fab
     link: "https://github.com/zhuhai-ustc"
   - icon: envelope
-    icon_pack: fas
     link: "mailto:1132863306@qq.com"
-
-# Academic settings
-# Google Scholar
-scholar:
-  last_name: Zhu
-  first_name: [Hai, Zhu]
-  institutions:
-    - name: Alibaba International
-      url: "https://www.alibabagroup.com/"
-    - name: USTC
-      url: "https://www.ustc.edu.cn/"
-
-# Resume/CV settings
-cv_name: resume
-cv_papers: true
-cv_projects: true
-
-# Enable dark mode
-dark_mode: true
-
-# Analytics (optional)
-# google_analytics: "UA-XXXXXXXXX"
