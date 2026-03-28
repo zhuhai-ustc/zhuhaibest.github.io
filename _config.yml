@@ -4,7 +4,7 @@ name: 朱海
 description: 推荐算法工程师 | 中国科学技术大学硕士
 url: "https://zhuhaibest.github.io"
 baseurl: ""
-repository: zhuhai_ustc/zhuhaibest.github.io
+repository: zhuhai-ustc/zhuhaibest.github.io
 
 # Build settings
 markdown: kramdown
@@ -24,7 +24,7 @@ paginate: 5
 paginate_path: "/blog/page:num/"
 
 # Social settings
-github_username: zhuhai_ustc
+github_username: zhuhai-ustc
 scholar_userid: fKOITdsAAAAJ
 
 # Navigation
@@ -54,7 +54,7 @@ collections:
 social:
   - icon: github
     icon_pack: fab
-    link: "https://github.com/zhuhai_ustc"
+    link: "https://github.com/zhuhai-ustc"
   - icon: envelope
     icon_pack: fas
     link: "mailto:1132863306@qq.com"
