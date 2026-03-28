@@ -8,7 +8,7 @@ repository: zhuhai-ustc/zhuhaibest.github.io
 
 # Build settings
 markdown: kramdown
-remote_theme: alshedivat/al-folio
+theme: jekyll-theme-primer
 
 # Plugins
 plugins:
