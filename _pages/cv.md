@@ -169,7 +169,7 @@ permalink: /cv/
 
   <!-- 返回首页 -->
   <div class="content-section" style="text-align: center;">
-    <a href="{{ '/' | relative_url }}" style="font-size: 1.1em; font-weight: 500;">← 返回首页</a>
+    <a href="/zhuhaibest.github.io/" style="font-size: 1.1em; font-weight: 500;">← 返回首页</a>
   </div>
 
 </div>

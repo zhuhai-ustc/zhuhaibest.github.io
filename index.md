@@ -72,7 +72,7 @@ layout: default
   <div class="content-section">
     <h2>📄 查看完整简历</h2>
     <p>查看我的详细项目经历和技术细节，请访问：</p>
-    <p><a href="{{ '/cv/' | relative_url }}" style="font-size: 1.2em; font-weight: 500;">查看完整简历 →</a></p>
+    <p><a href="/zhuhaibest.github.io/cv/" style="font-size: 1.2em; font-weight: 500;">查看完整简历 →</a></p>
   </div>
 
 </div>
