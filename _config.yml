@@ -19,23 +19,6 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# Pagination
-paginate: 5
-paginate_path: "/blog/page:num/"
-
-# Social settings
-github_username: zhuhai-ustc
-scholar_userid: fKOITdsAAAAJ
-
-# Navigation
-# Links will appear in the header navigation
-# You can also add external links with { title: "External", url: "https://external-link.com" }
-nav:
-  - title: 关于我
-    section: about
-  - title: 简历
-    section: cv
-
 # Social settings
 github_username: zhuhai-ustc
 
