@@ -1,6 +1,7 @@
 ---
 layout: default
 title: "完整简历"
+permalink: /cv/
 ---
 
 <div class="home-container">
