@@ -1,0 +1,82 @@
+# Site settings
+title: 朱海的个人简历
+name: 朱海
+description: 推荐算法工程师 | 中国科学技术大学硕士
+url: "https://zhuhaibest.github.io"
+baseurl: ""
+repository: zhuhai_ustc/zhuhaibest.github.io
+
+# Build settings
+markdown: kramdown
+remote_theme: alshedivat/al-folio
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# Pagination
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# Social settings
+github_username: zhuhai_ustc
+scholar_userid: fKOITdsAAAAJ
+
+# Navigation
+# Links will appear in the header navigation
+# You can also add external links with { title: "External", url: "https://external-link.com" }
+nav:
+  - title: 关于我
+    section: about
+  - title: 简历
+    section: cv
+  - title: 项目
+    section: projects
+
+# Collections
+collections:
+  publications:
+    permalink: /publications/:year/:title/
+    output: true
+  projects:
+    permalink: /projects/:title/
+    output: true
+
+# Theme settings
+# https://github.com/alshedivat/al-folio/blob/master/_config.yml
+
+# Social icons (shown in footer)
+social:
+  - icon: github
+    icon_pack: fab
+    link: "https://github.com/zhuhai_ustc"
+  - icon: envelope
+    icon_pack: fas
+    link: "mailto:1132863306@qq.com"
+
+# Academic settings
+# Google Scholar
+scholar:
+  last_name: Zhu
+  first_name: [Hai, Zhu]
+  institutions:
+    - name: Alibaba International
+      url: "https://www.alibabagroup.com/"
+    - name: USTC
+      url: "https://www.ustc.edu.cn/"
+
+# Resume/CV settings
+cv_name: resume
+cv_papers: true
+cv_projects: true
+
+# Enable dark mode
+dark_mode: true
+
+# Analytics (optional)
+# google_analytics: "UA-XXXXXXXXX"
