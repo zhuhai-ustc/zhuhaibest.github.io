@@ -1,7 +1,6 @@
 ---
 title: "简历"
 permalink: /cv/
-layout: archive
 author_profile: true
 ---
 

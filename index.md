@@ -1,7 +1,5 @@
 ---
-title: "关于我"
-permalink: /
-layout: archive
+layout: home
 ---
 
 # 朱海
@@ -17,8 +15,8 @@ layout: archive
 
 ### 📊 技术影响
 
-- 在NLP/多模态/搜推方向均有相关经验，发表 **AAAI、COLING** 等多篇会议论文，引用量 **90**
-- 对前沿技术保持好奇和关注，业余时间搭建AI论文阅读助手，累计收录 **36w+** 论文，触达 **400+** 用户
+- 在NLP/多模态/搜推方向均有相关经验，发表 **AAAI、COLING** 等多篇会议论文，引用量 **90**，详见 [Google Scholar](https://scholar.google.com.hk/citations?hl=zh-CN&user=fKOITdsAAAAJ)
+- 对前沿技术保持好奇和关注，业余时间搭建AI论文阅读助手，累计收录 **36w+** 论文，触达 **400+** 用户，累计访问 **3w+**，工作日DAU **30-40**
 
 ### 🎓 教育背景
 
@@ -29,7 +27,3 @@ layout: archive
 
 - **阿里国际 AliExpress** - 推荐算法工程师 (2024.07 - 至今)
 - **阿里国际 Lazada** - 搜索算法工程师实习 (2023.07 - 2024.07)
-
----
-
-{% include social.html %}
